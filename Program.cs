@@ -3,6 +3,7 @@ using VistaSimAgentScope;
 if (args.Contains("--test"))
 {
     PolicyTests.Run();
+    DomainReviewTests.Run();
     return;
 }
 
