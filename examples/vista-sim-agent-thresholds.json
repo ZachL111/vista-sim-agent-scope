@@ -1,0 +1,17 @@
+{
+  "repo": "vista-sim-agent-scope",
+  "thresholds": {
+    "signal": 2,
+    "slack": 2,
+    "confidence": 1,
+    "drag": 5,
+    "ship": 168,
+    "watch": 99
+  },
+  "terms": [
+    "input pressure",
+    "state drift",
+    "review cost",
+    "decision risk"
+  ]
+}
